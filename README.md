@@ -102,7 +102,7 @@
   </a>
 </div>
 
-✧ ೨౿ Discord Status ೨౿ ✧
+## ✧ ೨౿ Discord Status ೨౿ ✧
 <div align="center"> <table> <tr> <td align="center" bgcolor="#000000"> <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E2%9D%A4%20%E2%99%A1%20%E2%9D%A4-omJpwqZCooyuPnzlT7FfuYbEtSDdjR.gif" width="64px" /> <br /> <b><font color="#ffffff">treatpeoplewithviolence</font></b> <br /> <font color="#ffffff">✧ Playing Roblox</font> <br /><br /> <i><font color="#ffffff">"✧ creating digital magic while listening to Lana Del Rey ✧"</font></i> <br /><br /> <font color="#ffffff">✧ Web Dev ✧ CTF Player ✧ Game Designer</font> <br /><br /> <font color="#ff6ad5">✧･ﾟ: *✧･ﾟ:* 　　*:･ﾟ✧*:･ﾟ✧</font> </td> </tr> </table> </div>
 
 <div align="center">
